@@ -1,1 +1,3 @@
-This is a basic blog entry for me.
+This is a basic blog entry for me. 
+
+Plus, I just have to make some changes.
